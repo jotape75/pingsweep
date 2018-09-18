@@ -34,6 +34,7 @@ def ipList():
   Pingsweep v1.0 by Joao Paulo (JP)
   Pingsweep and simple nmap port scan using threading.
   https://github.com/jotape75/pingsweep
+  https://jpsecnetowrks.com
 
   Usage: network</mask>
   Exmaple: 10.10.10.0/24

@@ -19,6 +19,7 @@ Python3 script to perform pingsweep and simple nmap scan using threading.
   Pingsweep v1.0 by Joao Paulo (JP)
   Pingsweep and simple nmap port scan using threading.
   https://github.com/jotape75/pingsweep
+  https://jpsecnetworks.com
 
   Usage: network</mask>
   Exmaple: 10.10.10.0/24
